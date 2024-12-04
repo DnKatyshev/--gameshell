@@ -1,0 +1,25 @@
+.home{
+    &__body{
+        max-width: 1400px;
+        padding: 20px;
+    }
+
+    &__title{
+        font-family: var(--font-raleway);
+        margin: 30px 0;
+    }
+
+
+    .table{
+
+    }
+    .table__body{
+        height: 100%;
+    }
+    .table__title{
+        font-weight: 900;
+    }
+    .table__row td{
+        font-weight: 700;
+    }
+}
